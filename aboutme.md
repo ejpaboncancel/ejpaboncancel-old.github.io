@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Papers and Articles
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mathematical Articles:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+1. Pabón, Eric, et. al. "Improving Bounds of Hermitian Lifted-Codes with their Automorphism Group". (In progress)
+2. Pabón, Eric, Oriz-Albino, Reyes. "The Study of $\tau_{(n)}$-primes". (Independent research article in progress).
+3. Isabel, et al. “Improving the Minimum Distance Bound of Trace Goppa Codes.” \textit{ArXiv.org}, ArXiv.org, 11 Jan. 2022, https://arxiv.org/abs/2201.03741. (Submitted for review for publication).
 
-What else do you need?
+Writings and Contributions:
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+1. A how to guide to a one-hour workshop on mentoring, with Pamela E. Harris, Zoe Markman, Lucy Martinez, Ava Mock, Eric J. Pabón Cancel, Amanda Verga, and Susan Wang. (Submitted for review for publication).
