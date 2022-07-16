@@ -1,8 +1,7 @@
 ---
 layout: page
-
+title: <h1 style="font-size:40px;">Papers and Articles</h1>
 ---
-# Papers and Articles
 
 Mathematical Articles:
 
