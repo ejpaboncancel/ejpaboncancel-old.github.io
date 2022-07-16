@@ -14,7 +14,7 @@ author: Eric J. Pabón Cancel
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV: 
+  CV: "/assets/CV_Eric_Pabón.pdf"
   #About Me: "aboutme"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
