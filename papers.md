@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Papers and Articles
 ---
-
-## Papers and Articles
 
 Mathematical Articles:
 
