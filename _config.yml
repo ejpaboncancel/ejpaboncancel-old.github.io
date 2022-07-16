@@ -6,16 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: Eric J. Pabón Cancel
+title: E. J. Pabón Cancel
 
 # Your name to show in the footer
-author: Eric J. Pabón Cancel
+author: E. J. Pabón Cancel
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  CV: "/assets/CV_Eric_Pabón.pdf"
-  #About Me: "aboutme"
+  Curriculum Vitae: "/assets/CV_Eric_Pabón.pdf"
+  Papers and Articles: "aboutme"
   #Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
