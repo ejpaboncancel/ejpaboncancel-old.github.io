@@ -10,6 +10,6 @@ a sequence to be a parking sequence. The following is a list of the projecs in w
 
 1. Improving Hermitian-Lifted Codes with their Automorphism Group
 2. Improving the Minimum Distance Bound of Trace Goppa Codes
-3. The Study of $\tau_{n}$-primes
-4. The Study of $\tau_{n}$-atoms
+3. The Study of \[ \tau_n \]-primes
+4. The Study of \[ \tau_n \]-atoms
 5. Characterizing Parking Sequences
