@@ -111,8 +111,8 @@ feed_show_excerpt: true
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
+navbar-text-col: "#0F8F46"
+navbar-border-col: "#0F8F46"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#0F8F46"
