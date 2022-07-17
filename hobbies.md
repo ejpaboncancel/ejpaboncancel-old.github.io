@@ -5,7 +5,7 @@ title: Hobbies
 
 <p>Here are some of the origami models I have made. To see more models, you can visit my Instagram <a href="https://www.instagram.com/erics_origami/">page</a>:</p>
 <br>
-<img src="https://drive.google.com/drive/u/0/my-drive/bull.png" width="480" height="360" alt="">
+![Bull](https://drive.google.com/drive/u/0/my-drive/bull.png)
 <br>Origami Bull designed by Stephan Weber
 
 <br>
