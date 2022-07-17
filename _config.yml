@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Home
+title: Eric J. Pabón Cancel
 
 # Your name to show in the footer
 author: E. J. Pabón Cancel
@@ -14,9 +14,10 @@ author: E. J. Pabón Cancel
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research: "research"
-  Papers and Articles: "papers"
-  Curriculum Vitae: "/assets/CV_Eric_Pabón.pdf"
+Information:
+ - Research: "research"
+ - Papers and Articles: "papers"
+ - Curriculum Vitae: "/assets/CV_Eric_Pabón.pdf"
 # Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
