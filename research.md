@@ -11,6 +11,6 @@ the most recent: </p>
 
 1. The Study of t(n)-atoms <br> (<i>E.J. Pabón, R.M. Ortiz</i>)
 2. The Study of t(n)-primes <br> (<i>E.J. Pabón, R.M. Ortiz</i>)
-3. Improving the Minimum Distance Bound of Trace Goppa Codes <br> (<i>I. Byrne, N. Dodson, R. Lynch, E.J. Pabón, F. Piñero)
+3. Improving the Minimum Distance Bound of Trace Goppa Codes <br> (<i>I. Byrne, N. Dodson, R. Lynch, E.J. Pabón, F. Piñero) </br>
 4. Improving Hermitian-Lifted Codes with their Automorphism Group <br> (<i>E.J. Pabón, L. Polanco, F. Piñero</i>)
 5. Characterizing Parking Sequences <br> (D. Chen, E.J. Pabón, G. Sargent, P. Harris)
