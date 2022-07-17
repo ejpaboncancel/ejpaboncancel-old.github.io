@@ -7,7 +7,7 @@ title: Research
 to investigate how properties of prime numbers can be applied to cryptography and related areas of cybersecurity. I have also
 participated in projects related to Abstract Algebra, in the area of Algebraic Coding Theory/Information Theory. Currently, I am working in 
 Combinatorics, speciffically the study of parking functions and parking sequences, and the characterization of necessary and sufficient conditions 
-for a sequence to be a parking sequence. The following is a list of the projecs in which I have participated in, from the first project to 
+for a sequence to be a parking sequence. The following is a list of the projecs in which I have participated, from the first project to 
 the most recent: </p>
 
 1. The Study of t(n)-atoms <br> (<i>E.J. Pabón-Cancel, R.M. Ortiz-Albino</i>)
