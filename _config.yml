@@ -17,10 +17,10 @@ navbar-links:
   Research: "research"
   Papers and Articles: "papers"
   Curriculum Vitae: "/assets/CV_Eric_Pabón.pdf"
-  #Resources:
+# Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
-  #Author's home: "https://deanattali.com"
+# Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
