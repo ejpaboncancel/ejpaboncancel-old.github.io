@@ -7,7 +7,7 @@ title: Papers and Articles
 
 1. Pabón, Eric, et. al. "Improving Bounds of Hermitian Lifted-Codes with their Automorphism Group". (In progress)
 2. Pabón, Eric, Oriz-Albino, Reyes. "The Study of t(n)-primes". (In progress).
-3. Isabel, et al. “Improving the Minimum Distance Bound of Trace Goppa Codes.” \textit{ArXiv.org}, ArXiv.org, 11 Jan. 2022, https://arxiv.org/abs/2201.03741. (Submitted for review for publication).
+3. Isabel, et al. “Improving the Minimum Distance Bound of Trace Goppa Codes.” *ArXiv.org*, ArXiv.org, 11 Jan. 2022, https://arxiv.org/abs/2201.03741. (Submitted for review for publication).
 
 ### Writings and Contributions:
 
