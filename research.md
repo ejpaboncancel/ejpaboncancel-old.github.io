@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resarch
+title: Research
 ---
 
 <p> I am mostly interested in working in Number Theory, mainly the study of prime numbers and the properties that may arise. I have also
