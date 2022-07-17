@@ -9,8 +9,8 @@ speciffically the study of parking functions and parking sequences, and the char
 a sequence to be a parking sequence. The following is a list of the projecs in which I have participated in, from the first project to 
 the most recent: </p>
 
-1. The Study of t(n)-atoms <br> (<i>E.J. Pabón, R.M. Ortiz</i>)
-2. The Study of t(n)-primes <br> (<i>E.J. Pabón, R.M. Ortiz</i>)
-3. Improving the Minimum Distance Bound of Trace Goppa Codes <br> (<i>I. Byrne, N. Dodson, R. Lynch, E.J. Pabón, F. Piñero</i>) 
-4. Improving Hermitian-Lifted Codes with their Automorphism Group <br> (<i>E.J. Pabón, L. Polanco, F. Piñero</i>)
-5. Characterizing Parking Sequences <br> (<i>D. Chen, E.J. Pabón, G. Sargent, P. Harris</i>)
+1. The Study of t(n)-atoms <br> (<i>E.J. Pabón-Cancel, R.M. Ortiz-Albino</i>)
+2. The Study of t(n)-primes <br> (<i>E.J. Pabón, R.M. Ortiz-Albino</i>)
+3. Improving the Minimum Distance Bound of Trace Goppa Codes <br> (<i>I. Byrne, N. Dodson, R. Lynch, E.J. Pabón-Cancel, F.L. Piñero-González</i>) 
+4. Improving Hermitian-Lifted Codes with their Automorphism Group <br> (<i>E.J. Pabón-Cancel, L. Polanco, F.L. Piñero-González</i>)
+5. Characterizing Parking Sequences <br> (<i>D. Chen, E.J. Pabón-Cancel, G. Sargent, P.E. Harris</i>)
