@@ -10,9 +10,9 @@ Combinatorics, speciffically the study of parking functions and parking sequence
 for a sequence to be a parking sequence. The following is a list of the projecs in which I have participated, from the first project to 
 the most recent: </p>
 
-1. The Study of t(n)-atoms <br> University of Puerto Rico, Mayagüez Campus (August 2019 - May 2020) <br> (<i>E.J. Pabón-Cancel, R.M. Ortiz-Albino</i>)
-2. Improving the Minimum Distance Bound of Trace Goppa Codes <br> East Tennessee State University (June 2021 - August 2021) <br> (<i>I. Byrne, N. Dodson, R. Lynch, E.J. Pabón-Cancel, F.L. Piñero-González</i>)
-3. Improving Hermitian-Lifted Codes with their Automorphism Group <br> East Tennessee State University (June 2021 - August 2021) <br> (<i>E.J. Pabón-Cancel, L. Polanco, F.L. Piñero-González</i>)
-4. The Study of t(n)-primes <br> University of Puerto Rico, Mayagüez Campus (August 2022 - May 2022) <br> (<i>E.J. Pabón-Cancel, R.M. Ortiz-Albino</i>) 
-5. Characterizing Parking Sequences <br> ICERM, Brown University (June 2022 - August 2022) <br> (<i>D. Chen, E.J. Pabón-Cancel, G. Sargent, P.E. Harris</i>)
-6. Properties of t(n)-primes <br> University of Puerto Rico, Mayagüez Campus (August 2022 - May 2022) <br> (<i>E.J. Pabón-Cancel, R.M. Ortiz-Albino</i>)
+1. **The Study of t(n)-atoms** <br> University of Puerto Rico, Mayagüez Campus (August 2019 - May 2020) <br> (<i>E.J. Pabón-Cancel, R.M. Ortiz-Albino</i>)
+2. **Improving the Minimum Distance Bound of Trace Goppa Codes** <br> East Tennessee State University (June 2021 - August 2021) <br> (<i>I. Byrne, N. Dodson, R. Lynch, E.J. Pabón-Cancel, F.L. Piñero-González</i>)
+3. **Improving Hermitian-Lifted Codes with their Automorphism Group** <br> East Tennessee State University (June 2021 - August 2021) <br> (<i>E.J. Pabón-Cancel, L. Polanco, F.L. Piñero-González</i>)
+4. **The Study of t(n)-primes** <br> University of Puerto Rico, Mayagüez Campus (August 2022 - May 2022) <br> (<i>E.J. Pabón-Cancel, R.M. Ortiz-Albino</i>) 
+5. **Characterizing Parking Sequences** <br> ICERM, Brown University (June 2022 - August 2022) <br> (<i>D. Chen, E.J. Pabón-Cancel, G. Sargent, P.E. Harris</i>)
+6. **Properties of t(n)-primes** <br> University of Puerto Rico, Mayagüez Campus (August 2022 - May 2022) <br> (<i>E.J. Pabón-Cancel, R.M. Ortiz-Albino</i>)
