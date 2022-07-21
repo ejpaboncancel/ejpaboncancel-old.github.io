@@ -6,7 +6,7 @@ title: Research
 <p> I am mostly interested in working in Number Theory, mainly the study of prime numbers and the properties that may arise. I want
 to investigate how properties of prime numbers can be applied to cryptography and related areas of cybersecurity. I have also
 participated in projects related to Abstract Algebra, in the area of Algebraic Coding Theory/Information Theory. Currently, I am working in 
-Combinatorics, speciffically the study of parking functions and parking sequences, and the characterization of necessary and sufficient conditions 
+Combinatorics, specifically the study of parking functions and parking sequences, and the characterization of necessary and sufficient conditions 
 for a sequence to be a parking sequence. The following is a list of the projecs in which I have participated, from the first project to 
 the most recent: </p>
 
