@@ -8,7 +8,7 @@ title: Papers and Articles
 1. Pabón, Eric, et. al. "Improving Bounds of Hermitian Lifted-Codes with their Automorphism Group". (In progress)
 2. Pabón, Eric, Oriz-Albino, Reyes. "Properties of t(n)-primes". (In progress).
 3. Chen, Douglas et. al. "Characterizing Parking Sequences". (In progress)
-4. Byrne, Isabel, et al. “Improving the Minimum Distance Bound of Trace Goppa Codes.” *ArXiv.org*, ArXiv.org, 11 Jan. 2022, <a href="https://arxiv.org/abs/2201.03741"> https://arxiv.org/abs/2201.03741</a>. (Submitted).
+4. Byrne, Isabel, et al. “Improving the Minimum Distance Bound of Trace Goppa Codes.” *ArXiv.org*, ArXiv.org, 17 Jan. 2022, <a href="https://arxiv.org/abs/2201.03741"> https://arxiv.org/abs/2201.03741</a>. (Submitted).
 
 ### Writings and Contributions:
 
