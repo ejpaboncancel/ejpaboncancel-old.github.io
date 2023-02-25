@@ -5,7 +5,7 @@ title: Research
 
 <p> I am mostly interested in working in Number Theory, mainly the study of prime numbers and the properties that may arise. I want
 to investigate how properties of prime numbers can be applied to cryptography and related areas of cybersecurity. I have also
-participated in projects related to Abstract Algebra, in the area of Algebraic Coding Theory/Information Theory. From June 2022 to August 2022, I participated in the Summer@ICERM 2022: Computational Combinatorics REU in which I studied Algebraic Combinatorics, specifically the study of parking functions and parking sequences, and the characterization of necessary and sufficient conditions for a car sequence to be a minimally invariant. The following is a list of the projecs in which I have participated, from the first project to the most recent: </p>
+participated in projects related to Abstract Algebra, in the area of Algebraic Coding Theory/Information Theory. From June 2022 to August 2022, I participated in the Summer@ICERM 2022: Computational Combinatorics REU in which I studied Algebraic Combinatorics, specifically the study of parking functions and parking sequences. The following is a list of the projects in which I have participated, from the first project to the most recent: </p>
 
 1. **The Study of t(n)-atoms** <br> University of Puerto Rico, Mayagüez Campus <br> Mayagüez, Puerto Rico (August 2019 - May 2020) <br> (<i>E.J. Pabón-Cancel, R.M. Ortiz-Albino</i>)
 2. **Improving the Minimum Distance Bound of Trace Goppa Codes** <br> East Tennessee State University <br> Johnson City, Tennessee (June 2021 - August 2021) <br> (<i>I. Byrne, N. Dodson, R. Lynch, E.J. Pabón-Cancel, F.L. Piñero-González</i>)
