@@ -11,3 +11,4 @@ title: Research
 4. **The Study of t(n)-primes** <br> University of Puerto Rico, Mayagüez Campus <br> Mayagüez, Puerto Rico (August 2021 - May 2022) <br> (<i>E.J. Pabón-Cancel, R.M. Ortiz-Albino</i>) 
 5. **Characterizing Parking Sequences** <br> ICERM, Brown University <br> Providence, Rhode Island (June 2022 - August 2022) <br> (<i>D. Chen, E.J. Pabón-Cancel, G. Sargent, P.E. Harris</i>)
 6. **Properties of t(n)-primes** <br> University of Puerto Rico, Mayagüez Campus <br> Mayagüez, Puerto Rico (August 2022 - May 2023) <br> (<i>E.J. Pabón-Cancel, R.M. Ortiz-Albino</i>)
+7. **Unsupervised Machine Learning via Autoencoders with LSTM architecture** <br> MIT Lincoln Laboratory <br> Lexington, Massachusetts (May 2023 - August 2023) <br> (<i>E.J. Pabón-Cancel, S. Polk</i>)
